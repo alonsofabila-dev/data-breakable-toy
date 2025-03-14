@@ -103,6 +103,11 @@ Follow the next steps to set up the project:
     * Select the file **Social Media Engagement.lvdash.json** from the clonned repository.
 
     * Click on **Import Dashboard**
+  
+   ### Sample of the generated report in the Dashboard
+
+   <img width="945" alt="Screenshot 2025-03-14 at 3 58 22 p m" src="https://github.com/user-attachments/assets/5d02ac7a-7869-4b5e-b113-171407e65b3c" />
+
 
 
 
