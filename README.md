@@ -4,6 +4,10 @@ This is a project to gain knowledge and improve skills in the area of data engin
 
 ## App Architecture
 
+<p align="center">
+  <img width="709" alt="Screenshot 2025-03-14 at 4 47 10 p m" src="https://github.com/user-attachments/assets/c841231d-5d01-4508-9b97-343edc35a5c4" />
+<p />
+ 
 ## Prerequisites
 
 * Create a IAM role in AWS with:
