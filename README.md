@@ -61,6 +61,9 @@ Follow the next steps to set up the project:
 
       > [!NOTE]
       > Repeat the step one to four for every notebook under the Batch Data Pipeline folder in the clonned repository until you reach a workflow graph like this one:
+   
+      <img width="666" alt="Screenshot 2025-03-14 at 2 49 54 p m" src="https://github.com/user-attachments/assets/1898f3a0-4b87-4972-aeb6-c6a46aa38d9e" />
+
 
       5. After finishing seting up the workflow click on the **Run Now** button on the right upper corner.
 
